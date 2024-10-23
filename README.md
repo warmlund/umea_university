@@ -27,8 +27,6 @@ I learned EDA (exploratory data analysis) and common statistical methods, such a
 
 Emelie Wärmlund - @emeliewarmlund@gmail.com
 <br>
-Project Link: [https://github.com/warmlund/Business_System_Laboration](https://github.com/warmlund/umea_university)
-<br>
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
